@@ -12,7 +12,6 @@ This project's objective is to recreate my LAN on Cisco Packet Tracer to simulat
 - Checked connectivity on all the devices using the ping command on all the devices.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - Cisco Packet Tracer
 - Command Line Interface on the devices.
@@ -36,7 +35,6 @@ This project's objective is to recreate my LAN on Cisco Packet Tracer to simulat
 <img width="1160" alt="Screenshot 2024-04-29 at 9 39 27 PM" src="https://github.com/Alva40r/LAN-Simulation/assets/167376316/159d30f3-1b61-414a-b68a-04d91c50e952">
 
 
-## Feel free to download the file
 
 
 
